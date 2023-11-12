@@ -33,6 +33,6 @@ Certifique-se de ter o Java instalado e seguir os passos abaixo:
 
 ## Observações
 
-- Este projeto é um exemplo educacional para demonstrar o uso do Java, Lombok e Maven.
+- Este projeto é um exemplo educacional.
 - Certifique-se de ajustar as quantidades e valores conforme necessário no arquivo `application/Application.java`.
 
